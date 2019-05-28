@@ -1,0 +1,20 @@
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\ViewModels.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\ViewModels.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\DataObjects.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\Services.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\DataObjects.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\bin\Debug\Services.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\obj\Debug\ViewModels.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\DataObjects.dll
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\Services.dll
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\DataObjects.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\bin\Debug\Services.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Андрей\source\repos\TaskManager.App\ViewModels\obj\Debug\ViewModels.pdb

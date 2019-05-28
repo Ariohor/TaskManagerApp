@@ -1,0 +1,15 @@
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\DataObjects\bin\Debug\DataObjects.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\DataObjects\bin\Debug\DataObjects.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\DataObjects\obj\Debug\DataObjects.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\TaskManager.App\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\TaskManager.App\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\TaskManager.App\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\TaskManager.App\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\TaskManager.App\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\Андрей\source\repos\TaskManager.App\DataObjects\obj\Debug\DataObjects.pdb

@@ -1,0 +1,42 @@
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.exe.config
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.exe
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\ViewModels.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\DataObjects.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\Services.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\ViewModels.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\DataObjects.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\bin\Debug\Services.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csprojResolveAssemblyReference.cache
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\MainWindow.g.cs
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\App.g.cs
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App_MarkupCompile.cache
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App_MarkupCompile.lref
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\MainWindow.baml
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.g.resources
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.Properties.Resources.resources
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csproj.GenerateResource.Cache
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.exe
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.exe.config
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.exe
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\TaskManager.App.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\ViewModels.dll
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\DataObjects.dll
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\Services.dll
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\ViewModels.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\DataObjects.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\bin\Debug\Services.pdb
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\App.g.cs
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App_MarkupCompile.cache
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App_MarkupCompile.lref
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\MainWindow.baml
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.g.resources
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.Properties.Resources.resources
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.csproj.CopyComplete
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.exe
+C:\Users\Андрей\source\repos\TaskManager.App\TaskManager.App\obj\Debug\TaskManager.App.pdb

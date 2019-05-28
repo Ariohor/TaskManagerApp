@@ -1,0 +1,7 @@
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\bin\x64\Debug\Services.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\bin\x64\Debug\Services.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\bin\x64\Debug\DataObjects.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\bin\x64\Debug\DataObjects.pdb
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\obj\x64\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\obj\x64\Debug\Services.dll
+c:\users\pbsoft-2\documents\visual studio 2015\Projects\ProcessInformationApp\Services\obj\x64\Debug\Services.pdb
